@@ -1,3 +1,2 @@
-# c_programs
-# this would contain basic c programs all that follow a well defined algorithm
-
+**#c programs for advanced level cameroon computer science practical sessions
+#simplest form understandable by to all**
